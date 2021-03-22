@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DynaBlasterPROZE:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3916ecd-c91a-4f3e-a619-8b5f773b7bf3" name="Default Changelist" comment="Merge branch 'master' of https://gitlab-stud.elka.pw.edu.pl/dromanow/proze20l_romanowski_serodzinski" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>JTex</find>
+      <find>customT</find>
+      <find>setG</find>
+      <find>resume</find>
+      <find>keylist</find>
+      <find>system.out</find>
+      <find>start</find>
+      <find>timemanager.start</find>
+      <find>tick</find>
+      <find>Tile</find>
+      <find>tile</find>
+      <find>Imageicon</find>
+      <find>load</find>
+      <find>doGameLoop</find>
+      <find>exp</find>
+      <find>collideRect</find>
+      <find>collected</find>
+      <find>disp</find>
+      <find>update</find>
+      <find>isDead</find>
+      <find>play</find>
+      <find>playGame</find>
+      <find>synchro</find>
+      <find>GET</find>
+      <find>write</find>
+      <find>GET Leader</find>
+      <find>println</find>
+      <find>System.nanoTime()</find>
+      <find>createhi</find>
+      <find>connectionQuery</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>new Timestamp(System.currentTimeMillis())</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dromanow &lt;dromanow@mion.elka.pw.edu.pl&gt;" />
+        <option value="Damian Romanowski &lt;d.romanowski@stud.elka.pw.edu.pl&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZIxUF3jZe0Kvoncqoyuza55Zns" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15055951" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Damian\IdeaProjects\proze20l_romanowski_serodzinski\src\Server\ServerUI" />
+      <recent name="C:\Users\Damian\IdeaProjects\proze20l_romanowski_serodzinski\data\server\levels" />
+      <recent name="C:\Users\Damian\IdeaProjects\proze20l_romanowski_serodzinski\data\server\highScores" />
+      <recent name="C:\Users\Damian\IdeaProjects\proze20l_romanowski_serodzinski\documentations" />
+      <recent name="C:\Users\Damian\IdeaProjects\proze20l_romanowski_serodzinski\data\sounds" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Damian\IdeaProjects\proze20l_romanowski_serodzinski\data\img\gameover" />
+      <recent name="C:\Users\Damian\IdeaProjects\proze20l_romanowski_serodzinski\documentations" />
+      <recent name="C:\Users\Damian\IdeaProjects\proze20l_romanowski_serodzinski\data\info" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.17582418" />
+  </component>
+  <component name="RunManager" selected="Compound.Server and Client">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.Main" />
+      <module name="DynaBlasterPROZE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server.Main" />
+      <module name="DynaBlasterPROZE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.ServerUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Server.Main" />
+      <module name="DynaBlasterPROZE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server and Client" type="CompoundRunConfigurationType">
+      <toRun name="Main" type="Application" />
+      <toRun name="Server" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="Main (1)" type="Application" />
+      <toRun name="Main" type="Application" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Compound.Server and Client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3bad8839" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3bad8839" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@11065a7c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3916ecd-c91a-4f3e-a619-8b5f773b7bf3" name="Default Changelist" comment="" />
+      <created>1584540422350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584540422350</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Początek brancha">
+      <created>1584919147755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584919147755</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Złączenie efektów pracy">
+      <created>1585132617606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585132617606</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Uzupełnienie dokumentacji po merge'u">
+      <created>1585135897291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585135897291</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dokumentacja do CustomTextArea. Poprawki w UIManager oraz CustomLabel">
+      <created>1585140191758</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585140191758</updated>
+    </task>
+    <task id="LOCAL-00005" summary="merge do ujednolicenia wersji">
+      <created>1585822291467</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585822291467</updated>
+    </task>
+    <task id="LOCAL-00006" summary="merge do ujednolicenia wersji">
+      <created>1585822513196</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585822513196</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Początek prac nad FileManagerem">
+      <created>1585823628587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585823628587</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Gotowy diagram klas">
+      <created>1586209863995</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586209863995</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Poczatek kolejnego etapu">
+      <created>1587145513695</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587145513696</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Dodano znajdzki, w następnej kolejnosci bedzie ich podnoszenie i efekty jakie dają. Do tego potrzebny system żyć, kolizje z potworami itd.">
+      <created>1587555702310</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587555702310</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Połowiczna obsługa znajdziek">
+      <created>1587729825175</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587729825175</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Obsługa znajdzek, wprowadzono mechanizm życia gracza i niszczenia przeciwników">
+      <created>1587732637655</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587732637655</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Obsługa znajdzek, wprowadzono mechanizm życia gracza i niszczenia przeciwników">
+      <created>1587739052150</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587739052150</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge">
+      <created>1587930863239</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587930863239</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge">
+      <created>1588156590470</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1588156590470</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge">
+      <created>1588156697012</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1588156697012</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Dodanie dokumentacji">
+      <created>1588159251541</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1588159251541</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Dodanie dokumentacji - protokół sieciowy">
+      <created>1589312820200</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1589312820200</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Dodano wysyłkę wyników na serwer i zapis do pliku lokalnie">
+      <created>1590850360403</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590850360403</updated>
+    </task>
+    <task id="LOCAL-00020" summary="init">
+      <created>1591356706221</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1591356706221</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Poprawka co do zapisu wyników i eliminacja błędu z planszą">
+      <created>1591369464793</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1591369464793</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Separacja wyników online i offline, a także przeróbka wysyłki, zgodnie z zaleceniem prowadzącego. Dodanie scrollbara do okenka z wynikami.">
+      <created>1591462082102</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591462082102</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Dodano UI do serwera">
+      <created>1591540532447</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591540532447</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Dodano synchroniacje obslugi dodawania wynikow na serwer">
+      <created>1591552185943</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1591552185943</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Merge">
+      <created>1591615909858</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591615909858</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Merge z poprawkami Adama">
+      <created>1591621221026</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1591621221026</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Początek brancha" />
+    <MESSAGE value="Złączenie efektów pracy" />
+    <MESSAGE value="Uzupełnienie dokumentacji po merge'u" />
+    <MESSAGE value="Dokumentacja do CustomTextArea. Poprawki w UIManager oraz CustomLabel" />
+    <MESSAGE value="merge do ujednolicenia wersji" />
+    <MESSAGE value="Początek prac nad FileManagerem" />
+    <MESSAGE value="Gotowy diagram klas" />
+    <MESSAGE value="Poczatek kolejnego etapu" />
+    <MESSAGE value="Dodano znajdzki, w następnej kolejnosci bedzie ich podnoszenie i efekty jakie dają. Do tego potrzebny system żyć, kolizje z potworami itd." />
+    <MESSAGE value="Połowiczna obsługa znajdziek" />
+    <MESSAGE value="Obsługa znajdzek, wprowadzono mechanizm życia gracza i niszczenia przeciwników" />
+    <MESSAGE value="Dodanie dokumentacji" />
+    <MESSAGE value="Dodanie dokumentacji - protokół sieciowy" />
+    <MESSAGE value="Dodano wysyłkę wyników na serwer i zapis do pliku lokalnie" />
+    <MESSAGE value="init" />
+    <MESSAGE value="Poprawka co do zapisu wyników i eliminacja błędu z planszą" />
+    <MESSAGE value="Separacja wyników online i offline, a także przeróbka wysyłki, zgodnie z zaleceniem prowadzącego. Dodanie scrollbara do okenka z wynikami." />
+    <MESSAGE value="Dodano UI do serwera" />
+    <MESSAGE value="Dodano synchroniacje obslugi dodawania wynikow na serwer" />
+    <MESSAGE value="Merge" />
+    <MESSAGE value="Merge z poprawkami Adama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge z poprawkami Adama" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/proze20l_romanowski_serodzinski$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1590846914334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Server.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>intervals.size &gt; 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>intervals.size &gt; 0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>timeManager.resumeTime != null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>timeManager.paused == true</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

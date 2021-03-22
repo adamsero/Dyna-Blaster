@@ -1,0 +1,5 @@
+Celem każdego poziomu jest dotarcie do przejścia ukrytego pod przeszkodami, które mogą  być usuwane za pomocą bomb. Na mapie występują przeciwnicy. Po kontakcie z nimi jak i z wybuchem bomby, gracz traci jedno życie. Po utracie wszystkich żyć, gracz przegrywa. Sterowanie:
+Poruszanie się - strzałki
+Podłożenie bomby - spacja
+Pauza/wznowienie gry - P
+Wyjście do menu (w czasie pauzy) - Esc

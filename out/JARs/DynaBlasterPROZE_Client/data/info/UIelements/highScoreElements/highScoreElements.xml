@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jframe txt="Najlepsze wyniki" width="500" height="600" background-color="#191919">Najlepsze wyniki
+    <label x="250" y="60" width="400" height="50">Najlepsze Wyniki</label>
+    <text-area x="25" y="120" width="450" height="315" font-size="25"></text-area>
+    <button name="ZamknijNajlepszeWyniki" x="250" y="525" width="100" height="50" font-size-to-height-ratio="0.75" text-color="#191919">OK</button>
+</jframe>

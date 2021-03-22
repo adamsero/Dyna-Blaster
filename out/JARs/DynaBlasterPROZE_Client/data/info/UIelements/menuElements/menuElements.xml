@@ -1,0 +1,7 @@
+<jframe txt="DynaBlaster" width="800" height="600" background-color="#191919">
+    <label x="400" y="100" width="400" height="70">DynaBlaster</label>
+    <button name="Graj" x="400" y="225" width="200" height="50" font-size-to-height-ratio="0.8" text-color="#191919">Graj</button>
+    <button name="Pomoc" x="400" y="300" width="200" height="50" font-size-to-height-ratio="0.8" text-color="#191919">Pomoc</button>
+    <button name="Wyniki" x="400" y="375" width="200" height="50" font-size-to-height-ratio="0.5" text-color="#191919">Najlepsze Wyniki</button>
+    <button name="Wyjscie" x="400" y="450" width="200" height="50" font-size-to-height-ratio="0.75" text-color="#191919">Wyjscie</button>
+</jframe>

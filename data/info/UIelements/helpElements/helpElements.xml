@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jframe txt="Pomoc" width="500" height="600" background-color="#191919">Pomoc
+    <label x="250" y="60" width="400" height="50">Pomoc</label>
+    <text-area x="25" y="120" width="450" height="300" font-size="20"></text-area>
+    <button name="ZamknijPomoc" x="250" y="525" width="100" height="50" font-size-to-height-ratio="0.75" text-color="#191919">OK</button>
+</jframe>
