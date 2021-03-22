@@ -1,9 +1,0 @@
-Client
-Client.Game.Entities
-Client.Game.Environment
-Client.Game.Managers
-Client.Game.Utilities
-Client.Sound
-Client.UI
-Server
-Server.ServerUI
